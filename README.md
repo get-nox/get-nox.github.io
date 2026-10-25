@@ -1,8 +1,8 @@
-# noxapp.github.io
+# get-nox.github.io
 
 Site de présentation de **Nox**, le compagnon de bureau pour les cerveaux TDAH.
 
-- Site : https://noxapp.github.io
+- Site : https://get-nox.github.io
 - Code de l'application : https://github.com/adebayo-moutalabi/nox
 - Télécharger : https://github.com/adebayo-moutalabi/nox/releases/latest
 
